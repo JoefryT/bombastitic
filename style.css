@@ -1,0 +1,19 @@
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+  }
+  .e{
+    width: 50px;
+  }
+  .a{
+    width: 200px;
+  }
+  .b{
+    color: red;
+    font-size: 50px;
+  }
